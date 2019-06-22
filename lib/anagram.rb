@@ -1,6 +1,6 @@
 # Your code goes here!
 require 'pry'
-lass Anagram
+class Anagram
 
   attr_accessor :word
 
